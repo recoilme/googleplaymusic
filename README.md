@@ -11,7 +11,7 @@ For MacOS - run:
  go build -o googleplaymusic.app/Contents/MacOS/googleplaymusic
  zip -r googleplaymusic.zip googleplaymusic.app
 ```
-Builded version:  release/googleplaymusic.zip
+Builded version (mac):  [release/googleplaymusic.zip](https://github.com/recoilme/googleplaymusic/blob/master/release/googleplaymusic.zip)
 
 Screenshot:
 
